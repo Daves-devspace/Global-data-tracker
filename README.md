@@ -21,7 +21,7 @@ The **COVID-19 Global Data Tracker** project analyzes global COVID-19 trends ove
 ## How to Run/View the Project
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/covid-19-global-data-tracker.git](https://github.com/Daves-devspace/Global-data-tracker/tree/main)
+   git clone https://github.com/Daves-devspace/Global-data-tracker.git
 Navigate to the project directory:
 
 bash
